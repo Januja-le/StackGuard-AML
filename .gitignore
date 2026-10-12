@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Large dataset
+data/elliptic_txs_features.csv
+
+# Generated experiment outputs and caches
+results/
+*.npy
+*.npz
